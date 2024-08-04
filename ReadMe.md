@@ -126,3 +126,5 @@ http://localhost:5000/api/auth/login
 http://localhost:5000/api/songs/
 http://localhost:5000/api/playlists
 http://localhost:5000/api/songs/66ae02977dbf26fa5e40859d
+
+Deployed  link :https://spotify-backend-web-app-gntr.vercel.app/
